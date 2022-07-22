@@ -1,2 +1,2 @@
 # DL-With-Python
-Notebooks and Keras Models implemented in the course of learning Deep Learning from the book Deep Learning with Python Ed. 2
+This repo contains the various notebooks and keras models created in the course of learning Deep Learning with the textbook Deep Learning with Python Editoin 2 by Francois Chollet
